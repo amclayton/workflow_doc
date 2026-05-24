@@ -25,8 +25,8 @@ extensions = [
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = "furo"
-html_baseurl = "https://amclayton.github.io/workflow_doc/"
+#html_theme = "furo"
+#html_baseurl = "https://amclayton.github.io/workflow_doc/"
 
 # -- LaTeX output configuration ----------------------------------------------
 # https://www.sphinx-doc.org/en/master/latex.html
